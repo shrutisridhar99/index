@@ -1,0 +1,5 @@
+The broad scope of this project is to correlate gene signatures with the infiltration of specific immune cell types. The presence of certain immune cells in the tumor microenvironment seem to have an influence on prognosis in DLBCL. In order to develop novel therapies to modulate immune cell infiltration and improve prognosis, there is a need to identify processes/signaling pathways that promote the infiltration of specific immune cells and in addition, understand if there are any key differences in the regulation cells that can be exploited for this purpose.
+ 
+In addition, while the mechanism of action is still unclear, preliminary data suggests that STING protein promotes a favorable prognosis in DLBCL. Understanding the role STING plays in immune cell infiltration would help us characterize the features of a ‘high-STING’ tumor to understand how this protein promotes a favorable prognosis.
+ 
+Overall, the objectives of this project are to understand the intracellular signals that regulate immune phenotypes in DLBCL and the role of STING in promoting a favorable prognosis and its regulation of immune cell infiltration. 
